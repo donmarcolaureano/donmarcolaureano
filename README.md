@@ -1,4 +1,5 @@
 
+![marco laureano](https://github.com/donmarcolaureano/donmarcolaureano/assets/140132043/a61cf95b-7acf-4ecd-a056-99454b48547e)
 
 Hey I'm Marco, I'm a former sales professional turned data analyst & Salesforce Admin based out of Seattle, WA
 
