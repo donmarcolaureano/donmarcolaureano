@@ -14,7 +14,7 @@ Hey I'm Marco, I'm a former sales professional turned data analyst & Salesforce 
 #### Hobbies:
 <p> :man_dancing: Concerts & Festivals <br>
 :musical_keyboard: Music Production (Logic Pro) <br>
-:hammer_and_wrench: Electronic Prototyping (ESP32 WROOM) <br>
+:hammer_and_wrench: Electronic Prototyping (ESP32 WROVER) <br>
 :motorcycle: Working on my custom Harley Davidson Cafe Racer (2021 Iron 883 Sportster)</p>
 
 #### Where you can find me: 
